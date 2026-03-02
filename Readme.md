@@ -41,14 +41,14 @@ The algorithm shows clear convergence behavior:
 
 ## 🛠 Technologies
 
-. Python
-. Numpy
-. Matplotlib
+- Python
+- Numpy
+- Matplotlib
 
 ## Future Improvements
 
-. Elitism
-. Tournament selection
-. Adaptive mutation rate
-. Comparaison with Simulated Annealing
-. Parallel implementation
+- Elitism
+- Tournament selection
+- Adaptive mutation rate
+- Comparaison with Simulated Annealing
+- Parallel implementation
